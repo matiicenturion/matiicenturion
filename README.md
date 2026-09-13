@@ -4,6 +4,7 @@
 > `Console.WriteLine("Hola, mundo!");`
 
 🇦🇷 Estudiante en la **UTN** | 💻 Fan de **C#** y la Programación Orientada a Objetos.
+Ing. en sonido en mis tiempos libres.
 
 - 📚 **Estado actual:** Sobreviviendo a Programación 2.
 - 🎯 **Misión:** Dominar C# a fondo (chau `ArrayList`, hola `List<T>` 😉).
